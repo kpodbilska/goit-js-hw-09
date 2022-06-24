@@ -3,7 +3,6 @@ function getRandomHexColor() {
 }
 
 //const button = document.querySelector(".change-color");
-
 //button.addEventListener("click", () => {
  // const body = document.querySelector("body");
  // body.style.background = getRandomHexColor();
